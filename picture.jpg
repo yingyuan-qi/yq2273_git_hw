@@ -1,0 +1,11 @@
+--2019-11-05 21:35:18--  https://i1.wp.com/puppytoob.com/wp-content/uploads/2018/09/Teacup-Poodle-1.jpg?resize=750%2C449
+Resolving i1.wp.com (i1.wp.com)... 192.0.77.2
+Connecting to i1.wp.com (i1.wp.com)|192.0.77.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 33434 (33K) [image/jpeg]
+Saving to: ‘Teacup-Poodle-1.jpg?resize=750,449’
+
+     0K .......... .......... .......... ..                   100% 51.5M=0.001s
+
+2019-11-05 21:35:18 (51.5 MB/s) - ‘Teacup-Poodle-1.jpg?resize=750,449’ saved [33434/33434]
+
